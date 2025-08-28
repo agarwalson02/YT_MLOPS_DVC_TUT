@@ -1,0 +1,4 @@
+[core]
+    remote = myspace
+['remote "myspace"']
+    url = ../S3
